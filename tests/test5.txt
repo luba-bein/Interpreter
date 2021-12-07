@@ -1,0 +1,13 @@
+function fun(a,b){
+    d = 9+1;
+    f = a*b + d + k;
+    return f;
+}
+
+a = 10;
+b = 0;
+k = 1;
+while (a > 0) {
+    a = a - (1+1);
+    b = b + fun(1,2);
+}
